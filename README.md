@@ -1,6 +1,6 @@
 # Live demo of this code.
 
-https://majestic-jelly-0b43fb.netlify.app/
+https://quizzify-hitrocs.netlify.app/
 
 ## Available Scripts
 
